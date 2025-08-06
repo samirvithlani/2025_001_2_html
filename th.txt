@@ -1,0 +1,21 @@
+<!DOCTYPE html> : i indeicates browser that page is using 5th version of html
+
+heading tags:
+h1
+h2
+h3
+h4
+h5
+h6
+
+<h1>inner Text</h1>
+
+<body>
+    inner HTML
+</body>
+
+<a href = ""> inner html / text <a/>
+href = attribute
+target = 
+new page = _blank
+same page = _self
