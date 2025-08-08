@@ -32,3 +32,8 @@ html --> browser -->
 
 html only understand tags
 <tagname> </tagname>
+
+to diplay data in list formate we can use list tags
+ordered list
+un ordered list
+items
