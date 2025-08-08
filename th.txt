@@ -19,3 +19,16 @@ href = attribute
 target = 
 new page = _blank
 same page = _self
+
+
+collection of webpage:
+website:facebook,netflix,....
+
+webpages: html -> hyper text markup lang:
+c--code -- compier --> output console
+
+html --> browser -->
+.html
+
+html only understand tags
+<tagname> </tagname>
