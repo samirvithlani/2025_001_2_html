@@ -53,3 +53,37 @@ form:
 
 on form submission action attribute will call always
 action="url"
+
+
+HTML : tag -->idntity 
+id  : will ne unique
+
+name: can be duplicate :- 
+class: can be duplicate :- css class
+
+form attribute:
+
+action
+type
+value
+id
+name
+class
+placeholder
+required
+
+
+----------------------------
+input types
+text
+number
+radio
+checkbox
+email
+password
+submit
+reset
+date
+time
+color
+file
