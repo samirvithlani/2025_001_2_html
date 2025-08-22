@@ -37,3 +37,19 @@ to diplay data in list formate we can use list tags
 ordered list
 un ordered list
 items
+
+
+table 
+
+audo name --- audio
+
+abcd         audio
+
+
+DIV TAG:
+
+
+form:
+
+on form submission action attribute will call always
+action="url"
